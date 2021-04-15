@@ -1,4 +1,4 @@
-## Go Ethereum
+## Go Postium
 
 Official Golang implementation of the Ethereum protocol.
 
